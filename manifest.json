@@ -1,0 +1,20 @@
+{
+  "name": "Everipedia Always",
+  "version": "1.0",
+  "background": {
+    "scripts": ["request.js"]
+  },
+  "description": "Redirects any wikipedia page to everipedia",
+  "icons": {
+    "16": "media/logo192.png",
+    "48": "media/logo192.png",
+    "128": "media/logo192.png"
+  },
+  "manifest_version": 2,
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://en.wikipedia.org/*",
+    "https://everipedia.org/*"
+  ]
+}
