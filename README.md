@@ -17,7 +17,7 @@
 
 ## 🛠 Installation
 
-1. Clone this repository or [download it as a zip](https://github.com/EveripediaNetwork/everipedia-always/archive/master.zip)
+1. Clone this repository or [download it as a zip](https://github.com/EveripediaNetwork/everipedia-always/archive/master.zip) then unzip
 1. Open Brave or Chrome 
 1. Go to 'Extensions' (`chrome://extensions/`)
 1. Enable 'Developer mode'
